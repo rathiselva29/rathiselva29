@@ -114,7 +114,42 @@ const developer = {
   currentlyBuilding: "Digital Experiences",
 
   mindset: "Design with purpose. Code with creativity."
-};## Hi there 👋
+};
+<br clear="right"/>
+<!-- CREATIVE DEVELOPER --> <h2 id="creative-developer">02 / The Creative Developer Mindset</h2> <div align="center">
+🎨 DESIGN THINKING	💻 FRONTEND DEVELOPMENT	✨ DIGITAL CREATIVITY
+Visual hierarchy	Responsive layouts	Unique visual concepts
+Clean interfaces	Structured HTML & CSS	Creative interactions
+Color & typography	JavaScript fundamentals	Brand identity
+User-focused layouts	Cross-device experiences	Digital storytelling
+</div>
+
+I believe a good digital experience is more than a beautiful screen.
+
+It should communicate clearly, work across devices, feel intuitive to use, and reflect the identity of the person or business behind it.
+
+My approach: Understand the idea → Design the experience → Build the interface → Refine the details.
+
+<!-- TECH STACK --> <h2 id="tech-stack">03 / Tech Stack & Creative Toolkit</h2>
+◈ Frontend Development
+<p> <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, and JavaScript icons"/> </p>
+◈ Programming & Database
+<p> <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" alt="Python and MySQL icons"/> </p>
+
+Python is currently at the beginner-learning stage.
+
+◈ Tools & Platforms
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, and Visual Studio Code icons"/> </p>
+◈ Design & Creativity
+<p> <img src="https://img.shields.io/badge/Canva-Design%20Studio-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/> <img src="https://img.shields.io/badge/UI-Design-8B5CF6?style=for-the-badge" alt="UI design"/> <img src="https://img.shields.io/badge/Graphic-Design-FF4ECD?style=for-the-badge" alt="Graphic design"/> <img src="https://img.shields.io/badge/Brand-Identity-9333EA?style=for-the-badge" alt="Brand identity"/> <img src="https://img.shields.io/badge/Responsive-Web%20Design-0891B2?style=for-the-badge" alt="Responsive web design"/> </p>
+
+Creative toolkit: Layout design · Logo design · Branding · Typography · Color systems · Visual communication.
+
+<!-- PROJECTS --> <h2 id="projects">04 / Selected Projects</h2>
+
+A collection of websites and applications I've worked on across web development, business solutions, personal productivity, and creative design.
+
+<table> <tr> <td width="50%" valign="top">## Hi there 👋
 
 <!--
 **rathiselva29/rathiselva29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
