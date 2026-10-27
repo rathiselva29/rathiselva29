@@ -1,242 +1,555 @@
+<!-- ===================== RATTHIKA S ===================== -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,40:3B0764,75:8B5CF6,100:00F5FF&height=230&section=header&text=RATTHIKA%20S&fontSize=58&fontColor=F8FAFC&fontAlignY=38&desc=CREATIVE%20DEVELOPER%20%7C%20FRONTEND%20DEVELOPER%20%7C%20UI%20DESIGNER&descSize=13&descAlignY=60&animation=fadeIn" alt="Ratthika S Creative Developer Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,25:3B0764,55:8B5CF6,80:FF4ECD,100:00F5FF&height=250&section=header&text=RATTHIKA%20S&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=CREATIVE%20DEVELOPER%20%E2%9C%A6%20UI%20DESIGNER&descSize=18&descAlignY=60&animation=fadeIn" alt="Ratthika S futuristic neon developer banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&height=55&lines=Creative+Developer;Frontend+Developer;UI+Designer;Building+Digital+Experiences;Code+%2B+Creativity" alt="Animated developer introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=700&height=65&lines=HELLO%2C+WORLD!+%F0%9F%91%8B;CREATIVITY+MEETS+CODE+%E2%9C%A8;FRONTEND+DEVELOPER+%F0%9F%92%BB;UI+DESIGNER+%F0%9F%8E%A8;BUILDING+DIGITAL+EXPERIENCES+%F0%9F%9A%80" alt="Animated introduction"/>
 
-<h3>✦ Turning Creative Ideas Into Digital Experiences ✦</h3>
+<br/>
 
-<p>
-I combine <b>frontend development, UI design, and digital creativity</b><br/>
-to build responsive websites and meaningful digital experiences.
-</p>
-
-<a href="https://github.com/rathiselva29">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://sorainnovativesolution.in/">
-<img src="https://img.shields.io/badge/SoRa-Innovative%20Solution-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SoRa Innovative Solution"/>
-</a>
-<img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-00AFC0?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+<img src="https://img.shields.io/badge/CREATIVE-8B5CF6?style=for-the-badge&logoColor=white" alt="Creative"/>
+<img src="https://img.shields.io/badge/DEVELOPER-00BFD0?style=for-the-badge&logoColor=white" alt="Developer"/>
+<img src="https://img.shields.io/badge/DESIGNER-FF4ECD?style=for-the-badge&logoColor=white" alt="Designer"/>
 
 <br/><br/>
 
-<a href="#about-me">
-<img src="https://img.shields.io/badge/01-ABOUT%20ME-8B5CF6?style=flat-square" alt="About Me"/>
+### ✦ I DESIGN. I CODE. I CREATE. ✦
+
+**Turning imagination into interactive digital experiences.**
+
+I love combining frontend development, UI design, and creative thinking to build beautiful, responsive websites.
+
+<br/>
+
+<a href="https://github.com/rathiselva29">
+<img src="https://img.shields.io/badge/EXPLORE%20MY-GITHUB-111827?style=for-the-badge&logo=github&logoColor=00F5FF" alt="Explore GitHub"/>
 </a>
-<a href="#tech-stack">
-<img src="https://img.shields.io/badge/02-TECH%20STACK-00AFC0?style=flat-square" alt="Tech Stack"/>
-</a>
-<a href="#projects">
-<img src="https://img.shields.io/badge/03-PROJECTS-FF4ECD?style=flat-square" alt="Projects"/>
-</a>
-<a href="#github-analytics">
-<img src="https://img.shields.io/badge/04-ANALYTICS-8B5CF6?style=flat-square" alt="Analytics"/>
-</a>
-<a href="#connect">
-<img src="https://img.shields.io/badge/05-CONTACT-00AFC0?style=flat-square" alt="Contact"/>
+
+<a href="https://sorainnovativesolution.in/">
+<img src="https://img.shields.io/badge/VISIT-SORA%20WEBSITE-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit SoRa website"/>
 </a>
 
 </div>
 
----
+<br/>
 
-<h2 id="about-me">🌌 01 / About Me</h2>
+<div align="center">
 
-```javascript
-const ratthika = {
-    name: "Ratthika S",
-    username: "rathiselva29",
-    role: [
-        "Creative Developer",
-        "Frontend Developer",
-        "UI Designer"
-    ],
-    education: "B.E. Computer Science Engineering",
-    location: "Tamil Nadu, India",
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:8B5CF6,100:FF4ECD&height=4" width="100%" alt="Neon gradient divider"/>
 
-    skills: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Python",
-        "MySQL",
-        "Git",
-        "GitHub"
-    ],
+</div>
 
-    creativeTools: [
-        "Canva",
-        "UI Design",
-        "Graphic Design",
-        "Branding",
-        "Logo Design"
-    ],
+<!-- ===================== ABOUT ===================== -->
 
-    brand: "SoRa Innovative Solution",
+<h2 align="center">🌌 A LITTLE ABOUT ME</h2>
 
-    currentlyLearning: [
-        "Frontend Development",
-        "Responsive Web Design",
-        "Creative UI Development"
-    ],
+<div align="center">
 
-    philosophy: "Design with purpose. Code with creativity."
-};✨ I'm passionate about combining technology and visual creativity to build attractive, user-friendly digital experiences.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Animated illustration of a developer working at a computer"/>
 
-💻 I enjoy developing responsive websites, exploring modern UI layouts, and turning ideas into practical web projects.
+<br/>
 
-🎨 Alongside coding, I explore graphic design, branding, logo creation, and creative visual communication.
+### Hey there! I'm Ratthika S 👋
 
-🚀 My goal is to grow as a creative frontend developer and contribute to meaningful real-world projects.
+🎓 B.E. Computer Science Engineering
 
-<h2 id="creative-mindset">🎨 02 / The Creative Developer Mindset</h2> <div align="center"> <table> <tr> <td align="center" width="33%">
-🎨 DESIGN
+💻 Creative Developer | Frontend Developer
 
-Visual hierarchy<br/>
-Typography<br/>
-Color harmony<br/>
-UI layouts<br/>
-Brand identity
+🎨 UI Designer | Digital Creator
 
-</td> <td align="center" width="33%">
-💻 DEVELOP
+📍 Tamil Nadu, India
 
-HTML & CSS<br/>
-JavaScript fundamentals<br/>
-Responsive layouts<br/>
-Web interfaces<br/>
-Practical projects
+✨ Building websites where creativity meets technology.
 
-</td> <td align="center" width="33%">
-✨ CREATE
+</div>
 
-Creative concepts<br/>
-Digital experiences<br/>
-Visual storytelling<br/>
-Business websites<br/>
-User-focused solutions
+<br/>
 
-</td> </tr> </table> </div>
+<div align="center">
 
-I believe great digital experiences happen when thoughtful design meets functional code.
+<img src="https://img.shields.io/badge/MY%20MINDSET-DESIGN%20WITH%20PURPOSE-8B5CF6?style=for-the-badge" alt="Design with purpose"/>
+<img src="https://img.shields.io/badge/MY%20PASSION-CODE%20WITH%20CREATIVITY-FF4ECD?style=for-the-badge" alt="Code with creativity"/>
 
-<h2 id="tech-stack">⚡ 03 / Tech Stack & Creative Toolkit</h2> <h3>◈ Frontend Development</h3> <p> <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript"/> </p> <h3>◈ Programming & Database</h3> <p> <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" alt="Python and MySQL"/> </p> <p> <img src="https://img.shields.io/badge/Python-Beginner%20Level-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python beginner level"/> </p> <h3>◈ Tools & Platforms</h3> <p> <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code"/> </p> <h3>◈ Design & Creativity</h3> <p> <img src="https://img.shields.io/badge/Canva-Design%20Tool-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/> <img src="https://img.shields.io/badge/UI-Design-8B5CF6?style=for-the-badge" alt="UI Design"/> <img src="https://img.shields.io/badge/Graphic-Design-FF4ECD?style=for-the-badge" alt="Graphic Design"/> <img src="https://img.shields.io/badge/Brand-Identity-9333EA?style=for-the-badge" alt="Brand Identity"/> <img src="https://img.shields.io/badge/Responsive-Web%20Design-0891B2?style=for-the-badge" alt="Responsive Web Design"/> </p>
+</div>
 
-Creative skills: Layout Design · Logo Design · Branding · Visual Communication · Typography · Digital Creativity
+<br/>
 
-<h2 id="projects">🚀 04 / Featured Projects</h2> <p>Here are some of my website and application projects.</p> <table> <tr> <td width="50%" valign="top"> <h3>🎨 Artika Creations</h3>
+<div align="center">
 
-A creative brand website showcasing artistic work and creative products.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:00F5FF&height=3" width="100%" alt="Gradient divider"/>
 
-<b>Focus:</b> Creative presentation and visual branding.
+</div>
 
-<a href="https://artika-creations.vercel.app/"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-Live%20Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Artika Creations live website"/> </a> </td> <td width="50%" valign="top"> <h3>📈 Habit Tracking</h3>
+<!-- ===================== WHAT I DO ===================== -->
 
-A personal productivity website focused on habit tracking and consistent routines.
+<h2 align="center">✨ WHAT I LOVE TO CREATE</h2>
 
-<b>Focus:</b> Productivity and web interfaces.
+<table>
+<tr>
+<td align="center" width="33%">
 
-<a href="https://rathiselva29.github.io/Habit-Tracking/"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-Live%20Website-00AFC0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Habit Tracking live website"/> </a> </td> </tr> <tr> <td width="50%" valign="top"> <h3>📅 Daily Tracking Website</h3>
+<img src="https://img.icons8.com/fluency/96/web-design.png" width="72" alt="Web design illustration"/>
 
-A web project for organizing and tracking daily activities.
+### 💻 Web Development
 
-<b>Focus:</b> Personal organization and practical web development.
+Creating responsive websites with clean layouts and engaging interfaces.
 
-<a href="https://rathiselva29.github.io/DailyTracking/"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-Live%20Website-FF4ECD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Daily Tracking live website"/> </a> </td> <td width="50%" valign="top"> <h3>🚀 SoRa Innovative Solution</h3>
+</td>
+<td align="center" width="33%">
 
-A digital solutions brand website presenting business services and digital work.
+<img src="https://img.icons8.com/fluency/96/design.png" width="72" alt="Creative design illustration"/>
 
-<b>Focus:</b> Website design and digital presence.
+### 🎨 UI & Visual Design
 
-<a href="https://sorainnovativesolution.in/"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-Live%20Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SoRa Innovative Solution live website"/> </a> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🎓 College Notice Board</h3>
+Exploring colors, typography, visual hierarchy, and creative layouts.
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/96/idea.png" width="72" alt="Creative idea illustration"/>
+
+### 🚀 Digital Creativity
+
+Turning ideas into useful digital experiences for people and businesses.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### MY CREATIVE PROCESS
+
+<img src="https://img.shields.io/badge/01-IMAGINE-8B5CF6?style=for-the-badge" alt="Imagine"/>
+<img src="https://img.shields.io/badge/02-DESIGN-FF4ECD?style=for-the-badge" alt="Design"/>
+<img src="https://img.shields.io/badge/03-DEVELOP-00BFD0?style=for-the-badge" alt="Develop"/>
+<img src="https://img.shields.io/badge/04-REFINE-9333EA?style=for-the-badge" alt="Refine"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF4ECD&height=3" width="100%" alt="Gradient divider"/>
+
+</div>
+
+<!-- ===================== TECH STACK ===================== -->
+
+<h2 align="center">⚡ MY CREATIVE TOOLKIT</h2>
+
+<div align="center">
+
+### ◈ FRONTEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS and JavaScript"/>
+
+<br/>
+
+### ◈ PROGRAMMING & DATABASE
+
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" alt="Python and MySQL"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python beginner level"/>
+
+<br/><br/>
+
+### ◈ TOOLS & PLATFORMS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub and VS Code"/>
+
+<br/>
+
+### ◈ DESIGN & CREATIVITY
+
+<img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+<img src="https://img.shields.io/badge/UI%20DESIGN-8B5CF6?style=for-the-badge" alt="UI design"/>
+<img src="https://img.shields.io/badge/GRAPHIC%20DESIGN-FF4ECD?style=for-the-badge" alt="Graphic design"/>
+<img src="https://img.shields.io/badge/BRANDING-9333EA?style=for-the-badge" alt="Branding"/>
+<img src="https://img.shields.io/badge/RESPONSIVE%20DESIGN-0891B2?style=for-the-badge" alt="Responsive design"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4ECD,50:8B5CF6,100:00F5FF&height=3" width="100%" alt="Gradient divider"/>
+
+</div>
+
+<!-- ===================== PROJECTS ===================== -->
+
+<h2 align="center">🚀 MY DIGITAL UNIVERSE</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=700&color=FF4ECD&center=true&vCenter=true&width=550&height=40&lines=IDEAS+INTO+INTERFACES;DESIGNS+INTO+EXPERIENCES;PROJECTS+INTO+POSSIBILITIES" alt="Animated project showcase tagline"/>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<a href="https://artika-creations.vercel.app/">
+
+<img src="https://img.shields.io/badge/%E2%9C%A8_ARTIKA_CREATIONS-8B5CF6?style=for-the-badge" alt="Artika Creations"/>
+
+</a>
+
+<img src="https://img.icons8.com/fluency/96/paint-palette.png" width="65" alt="Painting palette illustration"/>
+
+**Creative Brand Website**
+
+A website for showcasing artistic work and creative products.
+
+<a href="https://artika-creations.vercel.app/">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-View%20Website-8B5CF6?style=flat-square" alt="View Artika Creations"/>
+</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<a href="https://rathiselva29.github.io/Habit-Tracking/">
+
+<img src="https://img.shields.io/badge/HABIT_TRACKING-00AFC0?style=for-the-badge" alt="Habit Tracking"/>
+
+</a>
+
+<img src="https://img.icons8.com/fluency/96/todo-list.png" width="65" alt="Task list illustration"/>
+
+**Personal Productivity Website**
+
+A web project focused on habit tracking and consistent routines.
+
+<a href="https://rathiselva29.github.io/Habit-Tracking/">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-View%20Website-00AFC0?style=flat-square" alt="View Habit Tracking"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center" valign="top">
+
+<a href="https://rathiselva29.github.io/DailyTracking/">
+
+<img src="https://img.shields.io/badge/DAILY_TRACKING-FF4ECD?style=for-the-badge" alt="Daily Tracking"/>
+
+</a>
+
+<img src="https://img.icons8.com/fluency/96/calendar.png" width="65" alt="Calendar illustration"/>
+
+**Daily Organization Website**
+
+A project for organizing and tracking everyday activities.
+
+<a href="https://rathiselva29.github.io/DailyTracking/">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-View%20Website-FF4ECD?style=flat-square" alt="View Daily Tracking"/>
+</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<a href="https://sorainnovativesolution.in/">
+
+<img src="https://img.shields.io/badge/SORA_INNOVATIVE_SOLUTION-9333EA?style=for-the-badge" alt="SoRa Innovative Solution"/>
+
+</a>
+
+<img src="https://img.icons8.com/fluency/96/rocket.png" width="65" alt="Rocket illustration"/>
+
+**Digital Solutions Website**
+
+A digital solutions brand presenting business services and digital work.
+
+<a href="https://sorainnovativesolution.in/">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-View%20Website-9333EA?style=flat-square" alt="View SoRa website"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/COLLEGE_NOTICE_BOARD-0891B2?style=for-the-badge" alt="College Notice Board"/>
+
+<img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="65" alt="Graduation cap illustration"/>
+
+**College Notice Board**
 
 A college-focused project for presenting notices and announcements.
 
-<b>Focus:</b> Academic information and communication.
+**Demo:** Add the verified live URL.
 
-<b>Live Demo:</b> Add the verified project URL.
+**Repository:** Add the verified repository URL.
 
-<b>Source Code:</b> Add the verified repository URL.
+</td>
 
-</td> <td width="50%" valign="top"> <h3>🏢 Business Management System</h3>
+<td width="50%" align="center" valign="top">
 
-A project focused on organizing business-related information and workflows.
+<img src="https://img.shields.io/badge/BUSINESS_MANAGEMENT-8B5CF6?style=for-the-badge" alt="Business Management System"/>
 
-<b>Focus:</b> Business information management.
+<img src="https://img.icons8.com/fluency/96/business.png" width="65" alt="Business illustration"/>
 
-<b>Live Demo:</b> Add the verified project URL.
+**Business Management System**
 
-<b>Source Code:</b> Add the verified repository URL.
+A project focused on organizing business information and workflows.
 
-</td> </tr> </table> <h3>◈ More Projects</h3>
-Project	Description	Link
-VY Enterprises	Business website project	Visit Website
-Tourist Website	Tourism-focused website project	Add verified URL
-Personal Portfolio	My personal developer portfolio	View Repository
-<p> <img src="https://img.shields.io/badge/PROJECTS-LEARN%20BUILD%20IMPROVE-8B5CF6?style=for-the-badge" alt="Learn Build Improve"/> </p>
-<h2 id="design-meets-code">🪄 05 / Design Meets Code</h2> <div align="center">
-Where imagination meets implementation.
-</div>
+**Demo:** Add the verified live URL.
 
-I enjoy exploring the connection between visual design and frontend development.
+**Repository:** Add the verified repository URL.
 
-🎨 UI Design: Clean interfaces, spacing, typography, and visual hierarchy.
-💻 Frontend Development: Building website interfaces with HTML, CSS, and JavaScript.
-📱 Responsive Design: Creating layouts that adapt to different screen sizes.
-🖌️ Branding: Exploring logos, brand identity, and creative visual concepts.
-🌐 Digital Experiences: Turning ideas into useful and visually engaging websites.
-<div align="center"> <a href="https://github.com/rathiselva29?tab=repositories"> <img src="https://img.shields.io/badge/EXPLORE-MY%20CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my code"/> </a> <a href="https://sorainnovativesolution.in/"> <img src="https://img.shields.io/badge/EXPLORE-MY%20DIGITAL%20WORK-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my digital work"/> </a> </div>
-<h2 id="github-analytics">📊 06 / GitHub Analytics</h2> <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rathiselva29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B12&title_color=00F5FF&icon_color=FF4ECD&text_color=F8FAFC" alt="GitHub statistics"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathiselva29&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B12&title_color=00F5FF&text_color=F8FAFC" alt="Most-used repository languages"/>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<h3 align="center">🌍 MORE PROJECTS</h3>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=rathiselva29&theme=tokyonight&hide_border=true&background=080B12&ring=8B5CF6&fire=FF4ECD&currStreakLabel=00F5FF" alt="GitHub contribution streak"/>
+<div align="center">
 
-<br/><br/>
+<a href="https://vyenterprises.in/">
+<img src="https://img.shields.io/badge/VY_ENTERPRISES-Visit%20Website-00AFC0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="VY Enterprises website"/>
+</a>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rathiselva29&bg_color=080B12&color=F8FAFC&line=8B5CF6&point=00F5FF&area=true&hide_border=true" alt="GitHub contribution activity graph"/> </div> <p align="center"> <sub>Statistics are provided by external services and depend on available GitHub data. Language charts describe repository contents, not skill proficiency.</sub> </p>
-<h2 id="current-focus">🎯 07 / Currently Exploring</h2> <table> <tr> <td width="50%" valign="top"> <h3>💻 Frontend Development</h3>
-Strengthening HTML, CSS, and JavaScript.
-Improving responsive website layouts.
-Building practical web projects.
-Learning clean and maintainable coding practices.
-</td> <td width="50%" valign="top"> <h3>🎨 Creative Development</h3>
-Improving UI design fundamentals.
-Exploring visual hierarchy and layout systems.
-Combining design tools with web development.
-Creating meaningful digital experiences.
-</td> </tr> </table>
+<a href="https://github.com/rathiselva29/ratthika_portfolio">
+<img src="https://img.shields.io/badge/PERSONAL_PORTFOLIO-View%20Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Personal portfolio repository"/>
+</a>
 
-Professional goal: Grow as a creative frontend developer, build real-world projects, and contribute to digital solutions that combine usability and creativity.
-
-I'm interested in frontend development opportunities, creative collaborations, and projects where I can apply my skills while continuing to learn.
-
-<h2 id="connect">🤝 08 / Let's Connect</h2> <div align="center">
-Have an idea? Let's build something creative.
-<a href="https://github.com/rathiselva29"> <img src="https://img.shields.io/badge/GitHub-rathiselva29-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/> </a> <a href="https://sorainnovativesolution.in/"> <img src="https://img.shields.io/badge/Website-SoRa%20Innovative%20Solution-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SoRa website"/> </a> <a href="mailto:ratthikas29@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a>
-
-<br/><br/>
-
-<a href="ADD_YOUR_LINKEDIN_PROFILE_URL"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile — replace placeholder URL"/> </a> <a href="ADD_YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-My%20Creative%20Work-FF4ECD?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio — replace placeholder URL"/> </a>
-
-<br/><br/>
-
-<b>Open to:</b><br/>
-Frontend Development · Creative Projects · Design Collaborations
+<img src="https://img.shields.io/badge/TOURIST_WEBSITE-Add%20Verified%20Link-FF4ECD?style=for-the-badge" alt="Tourist website link placeholder"/>
 
 </div>
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,45:8B5CF6,100:080B12&height=120&section=footer" alt="Purple and cyan gradient footer"/> <h3>DESIGN WITH PURPOSE. BUILD WITH CREATIVITY.</h3>
 
-<i>"Great digital experiences happen when imagination meets implementation."</i>
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:FF4ECD,100:8B5CF6&height=3" width="100%" alt="Gradient divider"/>
+
+</div>
+
+<!-- ===================== DESIGN ===================== -->
+
+<h2 align="center">🎨 DESIGN MEETS CODE</h2>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="280" alt="Animated creative coding illustration"/>
+
+### Beautiful interfaces. Thoughtful design. Functional code.
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/paint-brush.png" width="55" alt="Paint brush"/>
+
+**Visual Design**
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/source-code.png" width="55" alt="Source code"/>
+
+**Frontend Code**
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/smartphone-tablet.png" width="55" alt="Responsive devices"/>
+
+**Responsive UI**
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/idea.png" width="55" alt="Creative idea"/>
+
+**Creative Ideas**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+I enjoy combining design tools, creative layouts, branding, and frontend development to create digital experiences that look good and communicate clearly.
+
+<br/>
+
+<a href="https://sorainnovativesolution.in/">
+<img src="https://img.shields.io/badge/DISCOVER-MY%20DIGITAL%20WORK-FF4ECD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Discover my digital work"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:00F5FF&height=3" width="100%" alt="Gradient divider"/>
+
+</div>
+
+<!-- ===================== ANALYTICS ===================== -->
+
+<h2 align="center">📊 MY GITHUB ACTIVITY</h2>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=rathiselva29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B12&title_color=00F5FF&icon_color=FF4ECD&text_color=F8FAFC" alt="GitHub statistics for Ratthika"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/BUILT%20WITH-CODE%20%2B%20CREATIVITY-080B12?style=for-the-badge&labelColor=8B5CF6" alt="Built with code and creativity"/>
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathiselva29&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B12&title_color=00F5FF&text_color=F8FAFC" alt="Most-used languages"/>
 
 <br/><br/>
 
-<sub>Thanks for visiting my digital space. Keep creating. Keep experimenting. Keep building. ✨</sub>
+<img width="95%" src="https://streak-stats.demolab.com?user=rathiselva29&theme=tokyonight&hide_border=true&background=080B12&ring=8B5CF6&fire=FF4ECD&currStreakLabel=00F5FF" alt="GitHub contribution streak"/>
 
-</div> ```
-Before you publish
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rathiselva29&bg_color=080B12&color=F8FAFC&line=8B5CF6&point=00F5FF&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+
+</div>
+
+<p align="center">
+<sub>GitHub analytics are generated by external services and may occasionally be unavailable. Language statistics reflect repository contents rather than skill level.</sub>
+</p>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4ECD,100:00F5FF&height=3" width="100%" alt="Gradient divider"/>
+
+</div>
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+<h2 align="center">🎯 CURRENTLY EXPLORING</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.icons8.com/fluency/96/laptop-coding.png" width="70" alt="Laptop coding illustration"/>
+
+### 💻 Development
+
+</div>
+
+- Improving HTML, CSS, and JavaScript.
+- Building responsive interfaces.
+- Developing practical websites.
+- Learning clean coding practices.
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.icons8.com/fluency/96/creative-commons.png" width="70" alt="Creative design illustration"/>
+
+### 🎨 Creativity
+
+</div>
+
+- Improving UI design fundamentals.
+- Exploring new layout concepts.
+- Creating visual identities.
+- Combining design with development.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=700&color=00F5FF&center=true&vCenter=true&width=600&height=45&lines=LEARN+SOMETHING+NEW;BUILD+SOMETHING+USEFUL;MAKE+SOMETHING+BEAUTIFUL;REPEAT+%E2%9C%A8" alt="Animated learning mindset"/>
+
+</div>
+
+<p align="center">
+My goal is to grow as a creative frontend developer, contribute to real-world projects, and build digital experiences that combine usability and creativity.
+</p>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:8B5CF6&height=3" width="100%" alt="Gradient divider"/>
+
+</div>
+
+<!-- ===================== CONTACT ===================== -->
+
+<h2 align="center">💌 LET'S CONNECT</h2>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="110" alt="Animated waving hand"/>
+
+### Have a creative idea or an exciting opportunity?
+
+**Let's connect, collaborate, and create something meaningful.**
+
+<br/>
+
+<a href="https://github.com/rathiselva29">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://sorainnovativesolution.in/">
+<img src="https://img.shields.io/badge/WEBSITE-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+</a>
+
+<a href="mailto:ratthikas29@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="ADD_YOUR_LINKEDIN_PROFILE_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — replace placeholder URL"/>
+</a>
+
+<a href="ADD_YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/PORTFOLIO-FF4ECD?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio — replace placeholder URL"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OPEN%20TO-FRONTEND%20OPPORTUNITIES-00AFC0?style=for-the-badge" alt="Open to frontend opportunities"/>
+
+</div>
+
+<br/>
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,35:8B5CF6,70:FF4ECD,100:080B12&height=180&section=footer&animation=fadeIn" alt="Futuristic neon gradient footer"/>
+
+### ✨ DESIGN WITH PURPOSE. BUILD WITH CREATIVITY. ✨
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=16&duration=3000&pause=1000&color=FF4ECD&center=true&vCenter=true&width=550&height=40&lines=THANKS+FOR+VISITING+MY+PROFILE!;KEEP+CREATING.+KEEP+BUILDING.+%E2%9C%A8" alt="Animated thank-you message"/>
+
+<br/>
+
+<sub>Made with 💜, creativity, and a passion for digital experiences.</sub>
+
+</div>
