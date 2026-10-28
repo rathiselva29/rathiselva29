@@ -1,199 +1,710 @@
-Act as an award-winning Creative Developer, Motion Designer, UI/UX Designer, and GitHub Profile Branding Expert.
+<img width="1600" height="480" alt="hero-banner" src="https://github.com/user-attachments/assets/571c2213-c6a8-428a-a5c6-dea881581a0e" />
+<img width="1600" height="300" alt="footer-banner" src="https://github.com/user-attachments/assets/81386ec8-4db0-4040-acd8-8025cf6d88e6" />
+<img width="1600" height="18" alt="section-divider" src="https://github.com/user-attachments/assets/1a2d4847-55d3-4946-a5ee-6713bfbec05d" />
 
-Create a COMPLETE, highly animated, visually immersive GitHub Profile README.md for Ratthika S (@rathiselva29).
+Ratthika 💜💛 I've prepared your complete Creative Developer GitHub Profile package with the midnight-purple, electric-violet, and mustard-gold theme.
 
-IMPORTANT: Do not create an ordinary developer README. Design it like a premium creative developer portfolio website translated into GitHub-compatible Markdown.
+It's designed to look like a futuristic creative portfolio rather than an ordinary GitHub README.
 
-MY IDENTITY
-Name: Ratthika S
-GitHub: rathiselva29
-Professional identity: Creative Developer | Frontend Developer | Digital Designer
-Education: B.E. Computer Science Engineering
-Location: Tamil Nadu, India
-Freelance brand: SoRa Innovative Solution
+📦 A. Download your complete package
+The ZIP contains the README, custom banner assets, animated separators, and contribution-snake workflow.
 
-SKILLS
-HTML, CSS, JavaScript, Python (Beginner), MySQL, Git, GitHub, Responsive Web Design, Canva, UI Design, Graphic Design, Logo Design, and Branding.
+Individual files
 
-PROJECTS
 
-1. Artika Creations Website
-2. Habit Tracking Website
-3. Daily Tracking Website
-4. SoRa Innovative Solution Website
-5. VY Enterprises Website
-6. Tourist Website
-7. Personal Portfolio
-8. College Notice Board
-9. Business Management System
 
-DESIGN CONCEPT:
-"THE ANIMATED DIGITAL UNIVERSE OF A CREATIVE DEVELOPER"
 
-The profile should look like a combination of:
 
-* A futuristic creative coding portfolio.
-* A premium dark-mode developer dashboard.
-* A digital motion-design showcase.
-* A cyberpunk-inspired visual experience.
-* A professional software developer profile.
 
-STRICT COLOR PALETTE:
-Background: #080812
-Secondary background: #0B1026
-Electric purple: #9D4EDD
-Deep violet: #6C2BD9
-Mustard gold: #D4A017
-Soft lavender: #D8CCF5
 
-Avoid white backgrounds, bright white cards, pastel colors, and generic blue corporate templates.
+✨ B. What's included?
+Section	Features
+Animated hero	Custom Ratthika S banner with purple-and-gold geometric motion
+Typing animation	Creative Developer, Frontend Developer, UI Designer, and more
+About me	Terminal-inspired developer profile
+Skill dashboard	Programming, web development, GitHub, and design tools
+Design meets code	Visual design and development showcase
+Project archive	All nine projects, with known links and placeholders for missing URLs
+GitHub analytics	Statistics, languages, streak, and activity graph
+Contribution snake	GitHub Actions workflow and setup guide
+Pixels to Products	Creative design portfolio section
+Current focus	Professional development goals
+Contact	GitHub, email, LinkedIn, and portfolio badges
+Animated footer	Custom closing banner
+🚀 C. How to put it on GitHub
+Download and extract the ZIP.
 
-Use dark backgrounds and purple/gold accents consistently. Light text may be used sparingly for readability.
+Open your public profile repository: rathiselva29/rathiselva29.
 
-SECTION 1 — FULL-WIDTH ANIMATED HERO:
-Create a large animated SVG or GIF banner.
-It should include:
+Upload README.md to the repository root.
 
-* RATTHIKA S
-* CREATIVE DEVELOPER × DIGITAL DESIGNER
-* "Where Code Meets Creativity"
-* Purple and gold gradient effects.
-* Animated geometric shapes.
-* Glowing typography.
-* A futuristic digital atmosphere.
+Upload the complete assets folder, preserving its filenames.
 
-Use a custom banner file named assets/hero-banner.svg or assets/hero-banner.gif.
+Upload .github/workflows/snake.yml with the same folder structure.
 
-Use a Markdown image reference to the actual uploaded banner.
+Upload SNAKE_SETUP.md and ASSET_SETUP.md.
 
-Do not assume the banner file exists until it has been created and uploaded.
+Commit the changes.
 
-SECTION 2 — ANIMATED INTRODUCTION:
-Include an animated typing SVG with these phrases:
-Creative Developer
-Frontend Developer
-UI Designer
-Digital Experience Creator
-Code + Creativity
+Follow the snake setup instructions before enabling its image in the README.
 
-Use a reliable service and URL-encode parameters correctly.
+Important: GitHub can restrict animation in externally rendered SVGs. The banners and separators have been created with SVG animation, but their motion may not appear in every rendering environment.
 
-SECTION 3 — ANIMATED VISUAL SEPARATOR:
-Place subtle purple/gold animated separators between major sections.
-Use GIFs or verified animated SVG assets.
-Avoid excessive empty space.
+🛠️ D. Replace these placeholders
+Before publishing, search README.md for ADD_ and replace the placeholders with your actual links:
 
-SECTION 4 — ABOUT ME:
-Create a terminal-inspired introduction with a dark background aesthetic.
-Show my developer identity, interests, and goals.
-Use a concise code-inspired profile panel.
+ADD_DESIGN_PORTFOLIO_URL_HERE
 
-SECTION 5 — SKILL DASHBOARD:
-Create visually organized skill groups:
+ADD_TOURIST_WEBSITE_URL_HERE
 
-* Frontend Development
-* Programming and Database
-* Development Tools
-* Design and Creativity
+ADD_PORTFOLIO_LIVE_URL_HERE
 
-Use colorful technology icons, consistent icon sizing, and dark-theme-compatible presentation.
+ADD_COLLEGE_NOTICE_BOARD_REPOSITORY_URL_HERE
 
-SECTION 6 — DESIGN MEETS CODE:
-Create a visually distinct section explaining how I combine frontend development, visual design, layout composition, and branding.
-Use a purple-and-gold aesthetic.
-Include an optional design portfolio link placeholder.
+ADD_BUSINESS_MANAGEMENT_REPOSITORY_URL_HERE
 
-SECTION 7 — ANIMATED PROJECT SHOWCASE:
-Showcase my nine projects in a well-organized layout.
+ADD_LINKEDIN_PROFILE_URL_HERE
 
-For every project include:
+Your known project links are already included. Check that they belong in this profile before publishing.
 
-* Project name.
-* Short description.
-* Technology badges where known.
-* Live demo link if verified.
-* Repository link if verified.
+My recommendation: Upload the complete package rather than only the README. The custom banners and animated separators depend on the files in the assets folder, and the contribution snake requires its workflow to be configured separately. 
 
-Use HTML tables or Markdown layouts supported by GitHub.
 
-Use subtle visual separators, colored badges, and consistent formatting.
 
-Do not invent project URLs, features, statistics, or achievements.
 
-SECTION 8 — GITHUB ANALYTICS:
-Include:
+4 more
 
-* GitHub statistics card.
-* Most-used languages.
-* Contribution streak.
-* Contribution activity graph.
+how i use this all
 
-Use dark themes and purple/gold-compatible styling where supported.
+Buddy 💜💛 Don't worry! I'll explain step by step. You don't need to know coding deeply to set this up. We'll make your GitHub profile look like an animated creative developer portfolio.
 
-Use the username rathiselva29.
+🚀 STEP 1: Download your complete package
+Click below to download all your files together.
 
-Do not fabricate statistics.
-Explain how to replace unavailable or broken external cards.
+📦
+After downloading:
 
-SECTION 9 — ANIMATED CONTRIBUTION SNAKE:
-Provide setup instructions for generating a contribution snake using GitHub Actions.
-Include the README image reference only after the workflow has been configured.
-Use a dark-compatible appearance if supported.
+Open your Downloads folder on your computer.
 
-SECTION 10 — DESIGN PORTFOLIO:
-Add a "Pixels to Products" section.
-Show my interest in interface design, creative layouts, digital branding, and responsive websites.
-Include real portfolio and design links only when available.
+Find ratthika_creative_github_profile.zip.
 
-SECTION 11 — CURRENT FOCUS:
-Highlight my ongoing development interests without falsely claiming advanced expertise.
-Use concise, professional wording.
+Right-click the ZIP file.
 
-SECTION 12 — CONTACT:
-Create attractive badges for GitHub, LinkedIn, portfolio, and email.
-Use placeholders for missing links.
-Do not invent social accounts.
+Select Extract All.
 
-SECTION 13 — ANIMATED FOOTER:
-Create a full-width animated closing banner using purple, midnight blue, and mustard gold.
-Include the phrase:
-"DESIGNED WITH IMAGINATION. BUILT WITH CODE."
+Click Extract.
 
-Use a verified animated SVG or GIF asset.
+You'll see a folder containing files like these:
 
-ANIMATION REQUIREMENTS:
+ratthika_creative_github_profile/
+│
+├── README.md
+├── SNAKE_SETUP.md
+├── ASSET_SETUP.md
+│
+├── assets/
+│   ├── hero-banner.svg
+│   ├── footer-banner.svg
+│   └── section-divider.svg
+│
+└── .github/
+    └── workflows/
+        └── snake.yml
+Keep all these filenames and folders unchanged.
 
-* Animated hero banner.
-* Typing text animation.
-* Animated separators.
-* Animated contribution snake.
-* Animated footer.
-* Optional animated background GIFs in selected sections.
-* Consistent purple and gold branding.
-* Attractive project cards and skill badges.
+💻 STEP 2: Open your GitHub repository
+Open your GitHub account:
 
-TECHNICAL RULES:
+GitHub
 
-1. GitHub README files cannot run arbitrary JavaScript.
-2. GitHub sanitizes HTML and does not allow arbitrary custom CSS.
-3. Use Markdown, supported HTML, animated images, SVGs, and GIFs.
-4. Prefer lightweight SVG animations where they render reliably.
-5. Use GIF fallbacks when SVG animation is not reliable.
-6. Avoid unnecessary external dependencies and oversized images.
-7. Use valid image URLs.
-8. Include image alt text.
-9. Do not add unsupported animation code that will not work on GitHub.
-10. Do not invent project links or personal achievements.
-11. Make the profile readable, professional, and mobile-friendly.
-12. Ensure every section follows the same dark purple and mustard-gold visual identity.
+Your profile username is rathiselva29.
 
-DELIVERABLES:
-A. Complete README.md content.
-B. Full-width hero banner design instructions.
-C. Full-width footer banner design instructions.
-D. Exact filenames and folders for images.
-E. Contribution snake workflow setup.
-F. Instructions for uploading assets and updating README image paths.
-G. A list of every placeholder that must be replaced.
+Your profile README repository should be:
 
-The result should feel like a designer-built creative developer portfolio, not a standard GitHub profile.
+
+Sign in to GitHub.
+
+Open the repository above.
+
+Check whether it already contains a README.md file.
+
+If the repository doesn't exist, create a public repository named exactly rathiselva29.
+
+Important: The repository name must match your GitHub username for the README to appear automatically on your profile.
+
+📄 STEP 3: Upload your README.md
+First, let's upload the main profile design.
+
+Open the extracted folder on your computer.
+
+Open the README.md file.
+
+Copy all its contents if you want to review them.
+
+Return to your GitHub repository.
+
+Click Add file → Upload files.
+
+Select README.md from the extracted folder.
+
+If GitHub says a file with that name already exists, use the edit option or replace its contents instead.
+
+Click Commit changes.
+
+Your profile content is now uploaded, but we still need to upload the images.
+
+🎨 STEP 4: Upload the animated banners
+Your README references three custom images:
+
+hero-banner.svg — the large purple-and-gold header.
+
+section-divider.svg — the animated separator between sections.
+
+footer-banner.svg — the closing banner.
+
+How to upload them
+Open your GitHub repository.
+
+Click Add file → Upload files.
+
+Upload all three SVG files from your extracted assets folder.
+
+Make sure they are inside a folder named assets, not directly in the repository root.
+
+Your repository should look like this:
+
+rathiselva29/
+│
+├── README.md
+│
+└── assets/
+    ├── hero-banner.svg
+    ├── section-divider.svg
+    └── footer-banner.svg
+Important: GitHub's website may not let you upload an empty folder directly. Upload the files through the folder path or use GitHub Desktop if necessary.
+
+Check your result
+After uploading, open README.md.
+
+Your hero banner should appear at the top, the section dividers between sections, and the footer banner at the bottom.
+
+Some GitHub rendering environments may display SVGs without their animations, even though the artwork still appears.
+
+🐍 STEP 5: Set up your animated contribution snake
+This feature creates an animation based on your GitHub contribution calendar.
+
+A. Upload the workflow
+In your repository, upload this file from the extracted package:
+
+.github/workflows/snake.yml
+
+The folder structure must be exactly:
+
+.github/
+└── workflows/
+    └── snake.yml
+GitHub needs the workflow file in this exact location to recognize it.
+
+B. Enable workflow permissions
+Open your repository.
+
+Go to Settings.
+
+Select Actions → General.
+
+Find Workflow permissions.
+
+Enable Read and write permissions.
+
+Save the settings.
+
+C. Run the workflow
+Open the repository's Actions tab.
+
+Select Generate contribution snake.
+
+Click Run workflow.
+
+Wait for it to finish successfully.
+
+The workflow should generate an output branch containing the snake SVG files.
+
+D. Display the snake
+Only after the workflow succeeds, open README.md and uncomment the contribution-snake image block.
+
+The exact instructions are also available in SNAKE_SETUP.md.
+
+🔗 STEP 6: Replace the remaining placeholders
+Some links were intentionally left blank because I don't want to invent your social accounts or project URLs.
+
+Open README.md and search for ADD_.
+
+Replace these placeholders:
+
+Placeholder	What you need to add
+ADD_DESIGN_PORTFOLIO_URL_HERE	Your design portfolio URL
+ADD_TOURIST_WEBSITE_URL_HERE	Your tourist website URL
+ADD_PORTFOLIO_LIVE_URL_HERE	Your portfolio's live website
+ADD_COLLEGE_NOTICE_BOARD_REPOSITORY_URL_HERE	The project's GitHub repository
+ADD_BUSINESS_MANAGEMENT_REPOSITORY_URL_HERE	The project's GitHub repository
+ADD_LINKEDIN_PROFILE_URL_HERE	Your LinkedIn profile URL
+Your existing email and known project links are already filled in. Double-check them before publishing.
+
+💜 STEP 7: Check your final profile
+Once you have committed everything, open:
+
+
+You should see your profile README with:
+
+🟣 Purple-and-gold animated hero
+
+✨ Animated typing text
+
+💻 Developer skills dashboard
+
+🎨 Design and creativity section
+
+🚀 Nine featured projects
+
+📊 GitHub statistics and activity graph
+
+🐍 Contribution snake, once configured
+
+🤝 Contact badges
+
+🌌 Matching footer banner
+
+Remember that the statistics cards and external animations require their respective services to be available.
+
+❤️ Buddy, let's make this easier.
+Tell me which screen you're on right now:
+
+A) I downloaded the ZIP file.
+
+B) I opened GitHub, but I don't know where to upload the files.
+
+C) I uploaded README.md, but the images aren't showing.
+
+D) I want to do everything using the GitHub website without installing software.
+
+Reply with A, B, C, or D, and I'll guide you through that exact step.
+
+
+first give all in one file then i download 
+
+Buddy 💜 I’ve combined everything into one ZIP file so you can download it all at once.
+
+📦 
+
+The ZIP contains:
+
+README.md — Complete animated GitHub profile
+
+hero-banner.svg — Animated purple and gold header
+
+footer-banner.svg — Matching animated footer
+
+section-divider.svg — Animated section divider
+
+snake.yml — Contribution snake workflow
+
+Setup guides — Instructions for uploading everything to GitHub
+
+After downloading:
+
+Extract the ZIP file.
+
+Keep the folder structure and filenames unchanged.
+
+Upload the files to your GitHub profile README repository.
+
+Your GitHub: 
+
+Download the ZIP first, buddy. Then I’ll guide you through uploading it step by step.
+
+
+now i attach 3 banner and paste the first prompt then what i do
+
+Buddy 💜🔥 Super! Now we’ll finish your GitHub profile step by step.
+
+You said you have attached the 3 banners and pasted the first prompt. Now follow these steps.
+
+✅ Step 1: Upload your README.md
+Open your GitHub profile repository: 
+
+Click Add file → Create new file.
+
+Name the file README.md.
+
+Open the downloaded ZIP folder and find README.md.
+
+Copy its complete content and paste it into GitHub.
+
+Click Commit changes.
+
+If README.md already exists: Click it → click the pencil ✏️ icon → replace the existing content with your new README content → commit changes.
+
+✅ Step 2: Upload your 3 banners
+Upload all three banner files into a folder named assets in your repository.
+
+Your folder structure should look like this:
+
+rathiselva29/
+├── README.md
+└── assets/
+    ├── hero-banner.svg
+    ├── footer-banner.svg
+    └── section-divider.svg
+Important: Keep the filenames exactly the same because your README refers to these filenames.
+
+✅ Step 3: Replace the placeholder links
+In your README, search for text beginning with ADD_.
+
+Replace each placeholder with the correct project or profile link. Don't leave placeholder text in your final profile.
+
+✅ Step 4: Check your profile
+Open  and refresh the page.
+
+Check whether:
+
+Your animated purple-and-gold header appears.
+
+Your skills and projects are visible.
+
+Your footer banner appears.
+
+Your project links work.
+
+🐍 Step 5: Set up the contribution snake later
+After the main README and banners work, upload the provided snake.yml file to:
+
+.github/workflows/snake.yml
+
+Then configure the GitHub Actions permissions and run the workflow using the instructions in SNAKE_SETUP.md.
+
+Buddy, tell me one thing first: Where did you paste the first prompt?
+
+A) In ChatGPT
+B) In GitHub
+C) In an AI website builder
+D) Somewhere else
+
+Reply with A, B, C, or D so I can guide you correctly without confusing you.
+
+
+Library
+/
+README.md
+
+
+
+<div align="center">
+
+<img src="assets/hero-banner.svg" width="100%" alt="Ratthika S — Creative Developer, where code meets creativity"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=D4A017&center=true&vCenter=true&width=720&lines=Creative+Developer;Frontend+Developer;UI+Designer;Digital+Experience+Creator;Code+%2B+Creativity" alt="Animated typing text: Creative Developer, Frontend Developer, UI Designer, Digital Experience Creator, Code plus Creativity"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/CREATIVE%20DEVELOPER-080812?style=for-the-badge&logo=codefactor&logoColor=D4A017&labelColor=080812"/> <img src="https://img.shields.io/badge/FRONTEND%20DEVELOPER-080812?style=for-the-badge&logo=html5&logoColor=9D4EDD&labelColor=080812"/> <img src="https://img.shields.io/badge/DIGITAL%20DESIGNER-080812?style=for-the-badge&logo=figma&logoColor=D8CCF5&labelColor=080812"/>
+
+<br/><br/>
+
+
+
+
+</div>
+
+<div align="center">
+
+01 / ABOUT　✦　02 / TOOLKIT　✦　03 / PROJECTS　✦　04 / SIGNAL
+
+<img src="assets/section-divider.svg" width="100%" alt="Animated purple and gold section divider"/>
+
+</div>
+
+01 — SYSTEM PROFILE
+<div align="center">
+
+<table> <tr> <td width="62%" valign="top">
+
+> whoami
+NAME       : Ratthika S
+ROLE       : Creative Developer
+             Frontend Developer
+             Digital Designer
+EDUCATION  : B.E. Computer Science Engineering
+LOCATION   : Tamil Nadu, India
+BRAND      : SoRa Innovative Solution
+MINDSET    : Logic × Visual Thinking
+I enjoy bringing together frontend development, interface design, and visual storytelling to create useful and engaging digital experiences. I’m building my skills through practical projects and exploring how thoughtful design can make websites clearer, more accessible, and more memorable.
+
+</td> <td width="38%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Animated developer working at a computer"/>
+
+BUILD / DESIGN / ITERATE
+
+</td> </tr> </table>
+
+</div>
+
+<div align="center"> <img src="assets/section-divider.svg" width="100%" alt="Animated purple and gold section divider"/> </div>
+
+02 — SKILL DASHBOARD
+◈ Frontend Development
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, JavaScript icons"/>
+
+</div>
+
+◈ Programming & Database
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" alt="Python and MySQL icons"/>
+
+Python — beginner level
+
+</div>
+
+◈ Development Tools
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code icons"/>
+
+</div>
+
+◈ Design & Creativity
+<div align="left">
+
+<img src="https://img.shields.io/badge/Canva-080812?style=for-the-badge&logo=canva&logoColor=D8CCF5"/> <img src="https://img.shields.io/badge/UI%20Design-080812?style=for-the-badge&logo=figma&logoColor=9D4EDD"/> <img src="https://img.shields.io/badge/Graphic%20Design-080812?style=for-the-badge&logo=adobecreativecloud&logoColor=D4A017"/> <img src="https://img.shields.io/badge/Logo%20Design-080812?style=for-the-badge&logo=abstract&logoColor=D8CCF5"/> <img src="https://img.shields.io/badge/Branding-080812?style=for-the-badge&logo=brandfolder&logoColor=D4A017"/> <img src="https://img.shields.io/badge/Responsive%20Web%20Design-080812?style=for-the-badge&logo=googlechrome&logoColor=9D4EDD"/>
+
+</div>
+
+<div align="center"> <img src="assets/section-divider.svg" width="100%" alt="Animated purple and gold section divider"/> </div>
+
+03 — DESIGN MEETS CODE
+<div align="center">
+
+<table> <tr> <td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/source-code.png" width="58" alt="Code icon"/>
+
+FRONTEND
+
+Responsive structure and interfaces.
+
+</td> <td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/design.png" width="58" alt="Interface design icon"/>
+
+UI DESIGN
+
+Layouts that feel clear and intentional.
+
+</td> <td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/paint-palette.png" width="58" alt="Creative palette icon"/>
+
+VISUALS
+
+Graphics, composition, and color.
+
+</td> <td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/branding.png" width="58" alt="Branding icon"/>
+
+BRANDING
+
+Consistent visual identities.
+
+</td> </tr> </table>
+
+Pixels to Products
+I’m interested in the full journey from a first visual idea to a working web experience: composition, typography, responsive layout, brand identity, and the details that make a digital product feel cohesive.
+
+Design portfolio: ADD_DESIGN_PORTFOLIO_URL_HERE
+
+</div>
+
+<div align="center"> <img src="assets/section-divider.svg" width="100%" alt="Animated purple and gold section divider"/> </div>
+
+04 — PROJECT ARCHIVE
+Nine projects across creative websites, business experiences, and web development. Live links and repositories are included only where a URL is currently available.
+
+<table> <tr> <td width="50%" valign="top">
+
+P-01 · Artika Creations Website
+A creative website project for showcasing handmade artwork and related products.
+
+Focus: Website design · Product presentation
+
+Live website
+
+</td> <td width="50%" valign="top">
+
+P-02 · Habit Tracking Website
+A web project focused on tracking habits and building consistent daily routines.
+
+Focus: Frontend development · Tracking interface
+
+Live website
+
+</td> </tr> <tr> <td width="50%" valign="top">
+
+P-03 · Daily Tracking Website
+A daily activity tracking website project.
+
+Focus: Web development · Information layout
+
+Live website
+
+</td> <td width="50%" valign="top">
+
+P-04 · SoRa Innovative Solution
+A digital solutions website presenting web development, branding, design, and digital services.
+
+Focus: Business website · Digital presence
+
+Live website
+
+</td> </tr> <tr> <td width="50%" valign="top">
+
+P-05 · VY Enterprises Website
+A business website for presenting company information and products online.
+
+Focus: Business web presence · Product information
+
+Live website
+
+</td> <td width="50%" valign="top">
+
+P-06 · Tourist Website
+A tourism-themed website project.
+
+Focus: Website layout · Travel content
+
+Live demo / repository: ADD_TOURIST_WEBSITE_URL_HERE
+
+</td> </tr> <tr> <td width="50%" valign="top">
+
+P-07 · Personal Portfolio
+A personal portfolio project to present development work, skills, and creative interests.
+
+Focus: Portfolio design · Project presentation
+
+Portfolio repository
+
+Live portfolio: ADD_PORTFOLIO_LIVE_URL_HERE
+
+</td> <td width="50%" valign="top">
+
+P-08 · College Notice Board
+A college notice board project for presenting announcements and information.
+
+Focus: Information display · Web development
+
+Repository: ADD_COLLEGE_NOTICE_BOARD_REPOSITORY_URL_HERE
+
+</td> </tr> <tr> <td width="50%" valign="top">
+
+P-09 · Business Management System
+A business management project exploring digital business workflows.
+
+Focus: Business workflow · Application development
+
+Repository: ADD_BUSINESS_MANAGEMENT_REPOSITORY_URL_HERE
+
+</td> <td width="50%" valign="top">
+
++ · What connects the projects?
+Design thinking + practical development
+
+I use projects to practice structuring information, presenting content clearly, and building useful web experiences.
+
+</td> </tr> </table>
+
+<div align="center"> <img src="assets/section-divider.svg" width="100%" alt="Animated purple and gold section divider"/> </div>
+
+05 — GITHUB TELEMETRY
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rathiselva29&show_icons=true&hide_border=true&bg_color=080812&title_color=D4A017&icon_color=9D4EDD&text_color=D8CCF5&rank_icon=github" alt="GitHub statistics for Ratthika S"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathiselva29&layout=compact&hide_border=true&bg_color=080812&title_color=D4A017&text_color=D8CCF5" alt="Most-used programming languages"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=rathiselva29&hide_border=true&background=080812&ring=9D4EDD&fire=D4A017&currStreakLabel=D4A017&sideLabels=D8CCF5&currStreakNum=D8CCF5&sideNums=D8CCF5&dates=9D4EDD" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rathiselva29&bg_color=080812&color=D8CCF5&line=9D4EDD&point=D4A017&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+
+</div>
+
+About these cards: These are live external widgets, not manually entered statistics. If a card fails to load, check the service URL, GitHub username, service availability, and any service rate limits. You can remove the affected image line or replace the card provider; no statistics are fabricated in the README itself.
+
+<div align="center"> <img src="assets/section-divider.svg" width="100%" alt="Animated purple and gold section divider"/> </div>
+
+06 — CONTRIBUTION SNAKE
+The contribution snake is optional. First add the workflow file shown in SNAKE_SETUP.md to this repository, enable GitHub Actions, and run the workflow successfully. Then uncomment the image below.
+
+<!-- Uncomment only after the workflow has generated and committed the SVG: <div align="center"> <img src="https://raw.githubusercontent.com/rathiselva29/rathiselva29/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake in dark theme"/> </div> -->
+
+Setup guide: SNAKE_SETUP.md
+
+<div align="center"> <img src="assets/section-divider.svg" width="100%" alt="Animated purple and gold section divider"/> </div>
+
+07 — PIXELS TO PRODUCTS
+<div align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" alt="Creative coding animation"/>
+
+Interfaces · Creative layouts · Digital branding · Responsive websites
+
+I’m exploring how visual design and frontend development can work together to make digital experiences more useful, distinctive, and enjoyable.
+
+Explore my GitHub projects
+
+Design portfolio: ADD_DESIGN_PORTFOLIO_URL_HERE
+
+</div>
+
+<div align="center"> <img src="assets/section-divider.svg" width="100%" alt="Animated purple and gold section divider"/> </div>
+
+08 — CURRENT FOCUS
+<div align="center">
+
+Focus area	Current direction
+Frontend development	Strengthening HTML, CSS, JavaScript, and responsive layouts
+UI design	Practicing visual hierarchy, layout, and usability
+Creative design	Exploring graphics, logos, and brand identity
+Development workflow	Building confidence with Git and GitHub
+Project practice	Learning by creating and improving practical web projects
+</div>
+
+09 — CONNECT / COLLABORATE
+<div align="center">
+
+<a href="https://github.com/rathiselva29"> <img src="https://img.shields.io/badge/GitHub-080812?style=for-the-badge&logo=github&logoColor=D4A017" alt="GitHub profile"/> </a> <a href="mailto:ratthikas29@gmail.com"> <img src="https://img.shields.io/badge/Email-080812?style=for-the-badge&logo=gmail&logoColor=9D4EDD" alt="Email Ratthika"/> </a> <a href="ADD_LINKEDIN_PROFILE_URL_HERE"> <img src="https://img.shields.io/badge/LinkedIn-080812?style=for-the-badge&logo=linkedin&logoColor=D8CCF5" alt="LinkedIn profile placeholder"/> </a> <a href="ADD_PORTFOLIO_LIVE_URL_HERE"> <img src="https://img.shields.io/badge/Portfolio-080812?style=for-the-badge&logo=vercel&logoColor=D4A017" alt="Portfolio website placeholder"/> </a>
+
+<br/><br/>
+
+Open to connecting with developers, designers, and creative people who enjoy building thoughtful digital experiences.
+
+</div>
+
+<div align="center">
+
+<img src="assets/footer-banner.svg" width="100%" alt="Designed with imagination. Built with code. Purple and gold animated closing banner"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=rathiselva29&style=for-the-badge&color=6C2BD9&label=PROFILE+VIEWS" alt="GitHub profile views"/>
+
+<sub>Made with curiosity, creativity, and code. ✦</sub>
+
+</div>
+
